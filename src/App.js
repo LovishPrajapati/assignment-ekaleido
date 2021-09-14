@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import data from "./data.json";
 
@@ -31,9 +31,9 @@ function App() {
         showArrows={false}
         selectedItem={currentQue}
       >
-        {data.map((que) => (
-          <div className="container">
-            <div key={que.id} className="question">
+        {data.map((que, index) => (
+          <div key={index} className="container">
+            <div className="question">
               <p>{que.question}</p>
             </div>
             <div className="options">
