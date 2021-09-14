@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130004",
+    "question": "Where is Taj Mahal ?",
+    "options": [
+      { "id": "1", "option": "Kanpur" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "New York" }
+    ],
+    "answerId": "3"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130005",
+    "question": "Where is Lal Quila ?",
+    "options": [
+      { "id": "1", "option": "Kanpur" },
+      { "id": "2", "option": "Rajasthan" },
+      { "id": "3", "option": "Agra" },
+      { "id": "4", "option": "Delhi" }
+    ],
+    "answerId": "4"
+  },
+  {
+    "id": "9c7ba8fc-e097-11eb-ba80-0242ac130006",
+    "question": "Where is Great Wall of China ?",
+    "options": [
+      { "id": "1", "option": "China" },
+      { "id": "2", "option": "Taiwan" },
+      { "id": "3", "option": "Indonesia" },
+      { "id": "4", "option": "Delhi" }
+    ],
+    "answerId": "1"
+  }
+]
